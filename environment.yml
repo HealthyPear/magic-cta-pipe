@@ -11,7 +11,6 @@ dependencies:
   - nbsphinx
   - ctapipe=0.19.2
   - gammapy=1.1
-  - ctaplot~=0.6.4
   - h5py
   - ipython
   - jupyter
